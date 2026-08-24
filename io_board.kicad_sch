@@ -8771,6 +8771,16 @@
 		)
 		(uuid "08b95a58-a491-40ea-938f-290065f63a4d")
 	)
+	(text "HCO34"
+		(exclude_from_sim no)
+		(at 370.84 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "132d43a9-17e6-44b4-9205-94690dc0fc61")
+	)
 	(text "TIM3_ETR / UART5_RX"
 		(exclude_from_sim no)
 		(at 313.182 61.214 0)
@@ -8855,6 +8865,16 @@
 			(justify left)
 		)
 		(uuid "43b94323-f0f8-4a8c-835b-e3b18100755a")
+	)
+	(text "HCO12"
+		(exclude_from_sim no)
+		(at 371.094 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "44a1364f-4c83-4523-9992-d18a917bbdb8")
 	)
 	(text "Mounting"
 		(exclude_from_sim no)
